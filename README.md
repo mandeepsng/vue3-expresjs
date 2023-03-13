@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+### Run express.js server by following command
+
+```sh
+node server.js
+```
